@@ -29,7 +29,8 @@ def gcd():
 ```
 
 ## Output:
- file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-11%2023-01-42.png
+ file:///home/sec/Pictures/Screenshots/gcd
+ 
 
 
 
