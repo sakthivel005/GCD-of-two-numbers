@@ -29,8 +29,9 @@ def gcd():
 ```
 
 ## Output:
- file:///home/sec/Pictures/Screenshots/gcd
+
  
+![Screenshot from 2023-01-11 23-05-23](https://user-images.githubusercontent.com/120550359/211877880-d3a4f412-eeb3-446d-86d2-c31b82885aa5.png)
 
 
 
